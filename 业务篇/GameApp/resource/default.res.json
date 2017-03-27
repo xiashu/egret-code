@@ -1,0 +1,60 @@
+{
+	"groups": [
+		{
+			"keys": "button_down_png,button_up_png,share_tip_png,start_normal_png,start_over_png,hulisuanshulogo_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "ui/result.png",
+			"type": "image",
+			"name": "result_png"
+		},
+		{
+			"url": "share.jpg",
+			"type": "image",
+			"name": "share_jpg"
+		},
+		{
+			"url": "ui/share_tip.png",
+			"type": "image",
+			"name": "share_tip_png"
+		},
+		{
+			"url": "ui/angin_normal.png",
+			"type": "image",
+			"name": "angin_normal_png"
+		},
+		{
+			"url": "ui/angin_over.png",
+			"type": "image",
+			"name": "angin_over_png"
+		},
+		{
+			"url": "ui/start_normal.png",
+			"type": "image",
+			"name": "start_normal_png"
+		},
+		{
+			"url": "ui/start_over.png",
+			"type": "image",
+			"name": "start_over_png"
+		},
+		{
+			"url": "ui/hulisuanshulogo.jpg",
+			"type": "image",
+			"name": "hulisuanshulogo_jpg"
+		}
+	]
+}
