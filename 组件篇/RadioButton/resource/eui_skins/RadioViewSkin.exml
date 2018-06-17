@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RadioViewSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">     
+  <!--<e:RadioButton id="miBtn" label="小米" x="145" y="124" groupName="Group"/>
+  <e:RadioButton id="sanBtn" label="三星" x="145" y="172" groupName="Group"/>
+  <e:RadioButton id="appBtn" label="苹果" x="145" y="224" groupName="Group"/>
+  <e:RadioButton id="huaBtn" label="华为" x="145" y="270" groupName="Group"/>-->
+  <e:RadioButton id="miBtn" label="小米" x="145" y="124" groupName="Group" value="100"/>
+<e:RadioButton id="sanBtn" label="三星" x="145" y="172" groupName="Group" value="200"/>
+<e:RadioButton id="appBtn" label="苹果" x="145" y="224" groupName="Group" value="300"/>
+<e:RadioButton id="huaBtn" label="华为" x="145" y="270" groupName="Group" value="400"/>
+</e:Skin>
