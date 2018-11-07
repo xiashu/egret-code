@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainSkin"  width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Button id="loginBtn" label="登录" y="441.33" horizontalCenter="0"/>
+	<e:Button id="regBtn" label="注册" y="525" horizontalCenter="0"/>
+	<e:TextInput id="nameTxt" width="285.33" height="46.67" y="88" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="4.5"/>
+	<e:Label text="名字" x="31.67" y="99.67"/>
+	<e:TextInput id="pwdTxt" width="285.33" height="46.67" y="168.67" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="4.5"/>
+	<e:Label text="密码" x="31.67" y="180.34"/>
+</e:Skin>
