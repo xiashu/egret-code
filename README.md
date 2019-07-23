@@ -72,5 +72,9 @@ Egret 相关的开发资料整理
 
 
 
+ 
+<img src="./asset/wechat.png" width="50%" height="50%" />
+
+
 # Lisence
 MIT
