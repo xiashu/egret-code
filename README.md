@@ -13,6 +13,10 @@ Egret 相关的开发资料整理
 
 + [Dragonbones API文档](http://developer.egret.com/cn/github/egret-docs/DB/dbPro/basicConcept/skeleton/index.html)
 
++ [小游戏开发文档](https://developers.weixin.qq.com/minigame/dev/guide/)
+
++ [抖音开发文档](https://developer.toutiao.com/)
+
 
 
 # 白鹭引擎开源的业务库
@@ -54,6 +58,11 @@ Egret 相关的开发资料整理
 
 + [Protobuf](https://github.com/google/protobuf/tree/master/js) 
 
++ [Electron](https://electronjs.org/) 
+
++ [excelize  -Excel辅助工具](https://github.com/360EntSecGroup-Skylar/excelize)
+
+
 
 
 # Egret 案例收集
@@ -61,6 +70,22 @@ Egret 相关的开发资料整理
 + [Egret 官方案例](http://developer.egret.com/cn/list/example/id/190)
 + [Egret 小游戏](https://github.com/chenyinkai/egret-games)
 + [像素鸟](https://github.com/shayne2017/stupid-bird)
+
+
+
+
+# Egret 打包方案
++ [Apache Cordova](https://cordova.apache.org/)
+
+
+
+
+# 后台开发模板
++ [阿里巴巴 ant.design](https://ant.design/index-cn)
++ [饿了么后台 element](https://element.eleme.io/)
+
+
+
 
 
 
