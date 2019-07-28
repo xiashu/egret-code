@@ -159,8 +159,6 @@ class Main extends eui.UILayer {
       return promise;
    }
 
-
-
     private mcPlayer2():void{
 		    var mcData = RES.getRes( "Dragon_1_mc_json");
 		    var texture = RES.getRes( "Dragon_1_tex_png");		 
